@@ -15,6 +15,8 @@ module.exports = {
     "https://stingray-cyan-ky9t.squarespace.com/",
     "https://stingray-cyan-ky9t.squarespace.com/blog/Blog%20Post%20Title%20One-9a46f",
     "https://amp-wp.org/",
-    "https://amp-wp.org/introducing-v2-0-of-the-official-amp-plugin-for-wordpress/"
+    "https://amp-wp.org/introducing-v2-0-of-the-official-amp-plugin-for-wordpress/",
+    "https://ctr871134341.wordpress.com/2021/07/30/example-post-3/",
+    "https://ctr871134341.wordpress.com/",
 	]
 };
